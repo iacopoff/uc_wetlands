@@ -24,3 +24,4 @@ holoviews==1.15.4
 datashader==0.14.4
 geoviews==1.9.6
 bokeh
+scipy
