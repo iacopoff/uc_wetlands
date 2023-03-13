@@ -20,7 +20,7 @@ jupyterlite-xeus-sqlite==0.2.1
 plotly>=5,<6
 theme-darcula
 #holoviz==0.11.6
-holoviews
-datashader
-geoviews
+holoviews==1.15.4
+datashader==0.14.4
+geoviews==1.9.6
 bokeh
